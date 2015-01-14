@@ -21,8 +21,7 @@
         
     <!-- İkon -->
     <icon src="icon.png" />    
-    <gap:splash src="splash.png" />
-    <preference name="splash-screen-duration" value="2000"/>
+   
         
         
     <!-- Ekran -->    
